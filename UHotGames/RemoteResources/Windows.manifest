@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 1379541639
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: dll/ahotgames.ab
+      Dependencies: {}
+    Info_1:
+      Name: images/light.ab
+      Dependencies: {}
+    Info_2:
+      Name: images/mapbg.ab
+      Dependencies: {}
+    Info_3:
+      Name: common.ab
+      Dependencies: {}
+    Info_4:
+      Name: ui/uiresources/avatarfemale.ab
+      Dependencies:
+        Dependency_0: common.ab
+    Info_5:
+      Name: ui/uiresources/avatarmale.ab
+      Dependencies:
+        Dependency_0: common.ab
+    Info_6:
+      Name: ui.ab
+      Dependencies: {}
+    Info_7:
+      Name: ui/gamelonelyworld.ab
+      Dependencies: {}
+    Info_8:
+      Name: ui/gameschulte.ab
+      Dependencies:
+        Dependency_0: images/btn5.ab
+        Dependency_1: images/btn3.ab
+    Info_9:
+      Name: images/btn5.ab
+      Dependencies: {}
+    Info_10:
+      Name: images/btn3.ab
+      Dependencies: {}
+    Info_11:
+      Name: ui/uialert.ab
+      Dependencies: {}
+    Info_12:
+      Name: ui/uicommonwait.ab
+      Dependencies: {}
+    Info_13:
+      Name: ui/uilogin.ab
+      Dependencies: {}
+    Info_14:
+      Name: ui/uimain.ab
+      Dependencies: {}
+    Info_15:
+      Name: ui/uiregister.ab
+      Dependencies: {}
+    Info_16:
+      Name: ui/ummap.ab
+      Dependencies:
+        Dependency_0: images/light.ab
+        Dependency_1: images/mapbg.ab
+    Info_17:
+      Name: ui/umuicreateavatar.ab
+      Dependencies: {}
+    Info_18:
+      Name: ui/umuimain.ab
+      Dependencies:
+        Dependency_0: common.ab
+        Dependency_1: ui.ab
+    Info_19:
+      Name: ui/umuisettings.ab
+      Dependencies:
+        Dependency_0: ui.ab
+    Info_20:
+      Name: firstui.ab
+      Dependencies: {}

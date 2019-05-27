@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1233972753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd013efc5e2b60842c5f2ebe7c7f75cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Images/btn5.png
+Dependencies: []

@@ -1,0 +1,6 @@
+[2019-05-27 11:48:07]Build to D:/Project/ILRuntime_HotGames-master/UHotGames/Release/Game/Game.exe
+[2019-05-27 11:48:17]Build failed, Cancelled
+[2019-05-27 15:24:27]Build to D:/Project/ILRuntime_HotGames-master/UHotGames/Release/Game/Game.exe
+[2019-05-27 15:24:38]Build failed, Cancelled
+[2019-05-27 15:52:52]Build to D:/Project/ILRuntime_HotGames-master/UHotGames/Release/com.MyGame.Game.1.0.x86.apk
+[2019-05-27 15:53:04]Build failed, Cancelled
